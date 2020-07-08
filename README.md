@@ -1,3 +1,4 @@
+## ( deprecated: last version was 'release-v2.3.0' )
 # Template Example
 
 This repo contains an empty starter application, a starting point for adding new code and functionality. As provided, the app only outputs a trace message on initialization of the bluetooth stack.
